@@ -29,6 +29,6 @@
 <br />
 <br />
 <h6 align="left">Code Challenges:</h6>
-<a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/ghoul%20ghoulson/badges/micro" alt="codewars" width="200" height="100"/> </a>
+<a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/ghoul%20ghoulson/badges/micro" alt="codewars" width="200" height="40"/> </a>
 </p>
 
