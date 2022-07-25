@@ -28,7 +28,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br />
 <br />
-<h6 align="left">Code Challenges:</h6>
+<h6 align="left">Code Challenges for Python, JS, TS</h6>
 <a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/ghoul%20ghoulson/badges/micro" alt="codewars" width="200" height="40"/> </a>
 </p>
 
