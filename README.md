@@ -1,7 +1,7 @@
 <h1 align="center">It's-a Me</h1>
 <h3 align="center">A data scientist and software developer</h3>
 
-- 🌱 I’m currently learning **Typescript, AWS, and Docker**
+- 🌱 I’m currently having fun with **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
