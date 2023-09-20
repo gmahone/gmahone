@@ -1,5 +1,5 @@
 <h1 align="center">It's-a Me</h1>
-<h3 align="center">A data scientist and software developer</h3>
+<h3 align="center">Data scientist / Software Developer</h3>
 
 - 🌱 On about **Machine Learning** and **Data Engineering**
 
